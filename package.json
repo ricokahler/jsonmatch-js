@@ -1,0 +1,16 @@
+{
+  "name": "@ricokahler/jsonmatch-js",
+  "version": "1.0.0",
+  "description": "[go-jsonmatch](https://github.com/sanity-io/go-jsonmatch) compiled to JS via GopherJS",
+  "main": "index.js",
+  "keywords": [
+    "jsonmatch"
+  ],
+  "author": {
+    "email": "hello@rico.codes",
+    "name": "Rico Kahler",
+    "url": "https://rico.codes"
+  },
+  "license": "MIT",
+  "types": "./index.d.ts"
+}
